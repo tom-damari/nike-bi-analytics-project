@@ -8,11 +8,13 @@
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project presents a complete BI&A prototype designed for **Nike**, a global leader in sportswear and footwear. The project follows the full BI pipeline – from business analysis and KPI definition to data modeling, dashboard creation, and advanced analytics.
 
 We simulated realistic organizational data and built an end-to-end analytical system aimed at supporting data-driven decision-making for marketing, operations, and sales optimization.
+
+All data in this project is simulated for academic purposes only.
 
 ---
 
@@ -49,7 +51,7 @@ Developed using **Excel, R, and Python**:
 
 ---
 
-## 💡 Key KPIs Defined
+## Key KPIs
 - **Annual Income Growth**
 - **Online Income Share**
 - **Late Order Rate**
@@ -83,5 +85,3 @@ Each KPI is aligned with **Balanced Scorecard (BSC)** perspectives (Financial, C
 - `*.csv` – Cleaned data files (orders, customers, products)
 
 ---
-
-> **Disclaimer**: All data in this project is simulated for academic purposes only.
